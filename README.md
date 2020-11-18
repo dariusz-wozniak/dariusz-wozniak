@@ -3,7 +3,7 @@
 I'm a happy .NET/C# Developer.
 
 - ⚡ I'm currently working in the Columbus A/S to deliver commerce solutions
-- 📕 I'm the author of the best-selling [book published about TDD](https://helion.pl/ksiazki/tdd-techniki-programowania-sterowanego-testami-dariusz-wozniak,tddppr.htm)
+- 📕 I'm the author of the best-selling [book about TDD](https://helion.pl/ksiazki/tdd-techniki-programowania-sterowanego-testami-dariusz-wozniak,tddppr.htm)
 - ✒ I have a blog at [dariuszwozniak.net](https://dariuszwozniak.net/)
 - 🔣 My name is pronounced as [darɛk vɔʑɲak]
 
