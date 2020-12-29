@@ -1,3 +1,5 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/dariuszwozniak/personal-stack)
+
 ### Hi there 👋
 
 I'm a happy .NET/C# Developer.
