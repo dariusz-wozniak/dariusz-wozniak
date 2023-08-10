@@ -1,8 +1,8 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/dariuszwozniak/personal-stack)
 
-### Hi there 👋
+### Hi there, I'm Darek 👋
 
-I'm a happy .NET/C# Developer.
+I'm a software developer that builds apps primarily in .NET/C#, ASP.NET Core, Azure cloud-native, and Optimizely (formerly Episerver). I'm advocate of [automation](https://xkcd.com/1319/) and automated tests.
 
 - ⚡ I'm currently working in the First Line Software to deliver commerce solutions
 - 📕 I'm the author of the best-selling [book about TDD](https://helion.pl/ksiazki/tdd-techniki-programowania-sterowanego-testami-dariusz-wozniak,tddppr.htm)
